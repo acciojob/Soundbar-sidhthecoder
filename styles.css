@@ -1,25 +1,13 @@
-/*  your css code here. If applicable */
-*{
-  padding:0;
-  margin:0;
-}
-body{
-background:darkcyan;
-
-
-}
-.button{
-	display:flex;
-	justify-content:space-around;
-	margin-top:50%;
-}
-.stop{
-	color:white;
-	background:darkviolet;
-	padding:10px 15px;
-}
-.btn{
-	color:white;
-	background:darkviolet;
-	padding:10px 15px;
-}
+#buttons{ 
+         width: 100%; 
+         height: 150px; 
+         background-color: purple; 
+          
+ } 
+  
+ #bt-n{ 
+     font-size: 15.6px; 
+     margin-top: 50px; 
+     padding: 15px; 
+      margin-left: 30px ; 
+ }
